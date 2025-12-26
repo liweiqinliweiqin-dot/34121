@@ -1,0 +1,754 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"器灵",
+				"器灵·金蝉"
+			],
+			[
+				"re",
+				"repeat	repeat until cond"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Script/商店处理类/仙玉商城.lua",
+			"settings":
+			{
+				"buffer_size": 6029,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 34439 files for \"该商品只供观赏无法购买\"\n\nD:\\服务端源码\\Script\\服务端源码.7z:\n    File too large, skipping\n\n0 matches\n\nSearching 34440 files for \"该商品只供观赏无法购买\"\n\nD:\\服务端源码\\Script\\服务端源码.7z:\n    File too large, skipping\n\n0 matches",
+			"settings":
+			{
+				"buffer_size": 214,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "Packages/Lua/ggeserver.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"RunInCommand"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"SetGGE"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"Stop"
+				],
+				[
+					"Packages/Lua/ggeserver.sublime-build",
+					"AboutGGE"
+				]
+			],
+			[
+				"Packages/Lua/ggeserver.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/服务端源码"
+	],
+	"file_history":
+	[
+		"/D/服务端源码/Script/商店处理类/仙玉商城 灵宝.lua",
+		"/D/服务端源码/Script/数据中心/物品.lua",
+		"/D/服务端源码/Script/对话处理类/对话内容.lua",
+		"/D/服务端源码/Script/对话处理类/对话处理",
+		"/D/服务端源码/Script/角色处理类/道具仓库类.lua",
+		"/D/服务端源码/Script/角色处理类/道具处理类.lua",
+		"/D/服务端源码/Script/战斗处理类/战斗计算/战斗流程/物理计算.lua",
+		"/D/服务端源码/Script/对话处理类/对话预处理.lua",
+		"/D/服务端源码/Script/对话处理类/对话处理.lua",
+		"/D/服务端源码/main.lua",
+		"/D/服务端源码/Script/角色处理类/角色处理类.lua",
+		"/D/服务端源码/Script/角色处理类/召唤兽处理类.lua",
+		"/D/服务端源码/Script/商店处理类/仙玉商城.lua",
+		"/D/服务端源码/Script/商店处理类/仙玉商城购买处理_修改版.lua",
+		"/D/服务端源码/Script/商店处理类/商店处理类.lua",
+		"/D/服务端源码/Script/商店处理类/藏宝阁.lua",
+		"/D/服务端源码/Script/系统处理类/任务处理类.lua",
+		"/D/服务端源码/Script/角色处理类/帮派处理类.lua",
+		"/D/服务端源码/Script/系统处理类/系统处理类.lua",
+		"/E/ggebuf.lua",
+		"/E/tufei/服务端源码/Script/地图处理类/地图处理类.lua",
+		"/E/tufei/服务端源码/Script/数据中心/物品.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/任务处理类.lua",
+		"/E/tufei/服务端源码/Script/对话处理类/对话处理.lua",
+		"/E/tufei/服务端源码/Script/对话处理类/对话内容.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/装备处理类.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/共用.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/内存类_物品.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/系统处理类.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/道具处理类.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/角色处理类.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/打造处理类.lua",
+		"/E/修改服务端/文件类.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/辅助内挂类.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/召唤兽处理类.lua",
+		"/E/tufei/服务端源码/main.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/战斗计算/胜利计算.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/礼包奖励类.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/摆摊假人.lua",
+		"/E/tufei/服务端源码/Script/数据中心/变身卡.lua",
+		"/E/tufei/shouji/JNHT1/lua/main.lua",
+		"/E/tufei/shouji/JNHT1/lua/UIlayer.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/战斗计算/战斗流程/物理计算.lua",
+		"/E/tufei/服务端源码/Script/对话处理类/对话预处理.lua",
+		"/E/tufei/服务端源码/Script/对话处理类/对话处理",
+		"/C/Users/Administrator/AppData/Local/Temp/360zip$Temp/360$1/UIlayer.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/网络处理类.lua",
+		"/E/tufei/服务端源码/Script/商店处理类/商店处理类.lua",
+		"/E/tufei/服务端源码/Script/商店处理类/仙玉商城.lua",
+		"/E/tufei/服务端源码/Script/数据中心/梦战召唤兽模型.lua",
+		"/E/tufei/服务端源码/Script/Dismay/Dismay.lua",
+		"/E/tufei/shouji/JNHT1/lua/数据/物品数据.lua",
+		"/E/tufei/shouji/JNHT1/lua/数据/模型数据.lua",
+		"/E/tufei/shouji/JNHT1/lua/资源/动画.lua",
+		"/D/BaiduNetdiskDownload/服务端/main.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/刷怪处理.lua",
+		"/E/tufei/服务端源码/Script/商店处理类/仙玉商城购买处理_修改版.lua",
+		"/E/tufei/服务端源码/Script/数据中心/商城神兽.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/战斗计算/加载数据.lua",
+		"/E/tufei/服务端源码/Script/数据中心/法术技能特效.lua",
+		"/E/tufei/服务端源码/Script/常用变量.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/技能数据.lua",
+		"/E/tufei/服务端源码/Script/老摩托/幻化打造任务.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/召唤兽处理类----备份.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/共享仓库类.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/共享背包.lua",
+		"/C/Users/Administrator/Desktop/main.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/道具仓库类.lua",
+		"/C/Users/Administrator/Desktop/江南大全/江南商城/仙玉商城.lua",
+		"/E/tufei/服务端源码/Script/角色处理类/召唤兽仓库类.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/战斗准备类.lua",
+		"/C/Users/Administrator/Desktop/对话处理.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/内挂处理类_backup.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/内挂处理类_optimized.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/内挂处理类.lua",
+		"/D/YE/JNHT/lua/main.lua",
+		"/E/tufei/111/服务端源码/文件类.lua",
+		"/E/tufei/服务端源码/梦幻奇缘.lua",
+		"/E/tufei/服务端源码/配置文件.ini",
+		"/E/tufei/服务端源码/Script/数据中心/场景名称.lua",
+		"/E/tufei/服务端源码/Script/战斗处理类/战斗计算/进入战斗.lua",
+		"/E/tufei/服务端源码/Script/系统处理类/共享货币类.lua",
+		"/E/tufei/服务端源码/Script/老摩托/挂机处理类.lua",
+		"/E/tufei/服务端源码/Script/BattleScripts/battle_100301.lua",
+		"/E/土匪江南/服务端源码/Script/数据中心/染色.lua",
+		"/E/土匪江南/服务端源码/Script/地图处理类/地图处理类.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/道具处理类.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/召唤兽处理类.lua",
+		"/E/土匪江南/服务端源码/Script/数据中心/物品.lua",
+		"/E/土匪江南/服务端源码/Script/对话处理类/对话处理.lua",
+		"/E/土匪江南/服务端源码/Script/数据中心/场景名称.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/战斗计算/胜利计算.lua",
+		"/E/土匪江南/服务端源码/Script/对话处理类/对话内容.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/战斗准备类.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/共享仓库类.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/角色处理类.lua",
+		"/E/土匪江南/服务端源码/Script/系统处理类/假人玩家.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/装备处理类.lua",
+		"/E/土匪江南/服务端源码/Script/对话处理类/对话预处理.lua",
+		"/E/土匪江南/服务端源码/main.lua",
+		"/E/土匪江南/服务端源码/Script/数据中心/明暗雷怪.lua",
+		"/E/土匪江南/服务端源码/Script/系统处理类/系统处理类.lua",
+		"/E/土匪江南/服务端源码/仙玉商城购买处理.txt",
+		"/E/土匪江南/服务端源码/Script/系统处理类/辅助内挂类.lua",
+		"/E/土匪江南/服务端源码/Script/Dismay/Dismay.lua",
+		"/E/土匪江南/服务端源码/Script/对话处理类/活动内容.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/战斗处理类.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/战斗计算/客户处理.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/战斗计算/结束流程.lua",
+		"/E/土匪江南/服务端源码/Script/战斗处理类/技能数据.lua",
+		"/E/土匪江南/服务端源码/Script/系统处理类/共用.lua",
+		"/E/土匪江南/服务端源码/Script/角色处理类/道具仓库类.lua",
+		"/E/土匪江南/服务端源码/Script/系统处理类/内挂处理类.lua",
+		"/E/土匪江南/服务端源码/Script/对话处理类/对话处理",
+		"/E/土匪江南/服务端源码/ip白名单.ini",
+		"/E/土匪江南/服务端源码/Script/角色处理类/多开系统.lua",
+		"/E/土匪江南/服务端源码/Script/常用变量.lua",
+		"/E/富婆江南修改/服务端源码/Script/系统处理类/内挂处理类.lua",
+		"/E/富婆江南修改/服务端源码/main.lua",
+		"/E/富婆江南修改/服务端源码/Script/常用变量.lua",
+		"/E/富婆江南修改/服务端源码/Script/系统处理类/系统处理类.lua",
+		"/E/富婆江南修改/服务端源码/Script/角色处理类/多开系统.lua",
+		"/E/富婆江南修改/服务端源码/Script/角色处理类/道具处理类.lua",
+		"/E/富婆江南修改/服务端源码/Script/对话处理类/对话预处理.lua",
+		"/E/富婆江南修改/服务端源码/Script/数据中心/物品.lua",
+		"/E/富婆江南修改/服务端源码/Script/对话处理类/对话内容.lua",
+		"/E/富婆江南修改/服务端源码/Script/对话处理类/对话处理.lua",
+		"/E/富婆江南修改/服务端源码/Script/商店处理类/仙玉商城.lua"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\服务端源码",
+			"E:\\shxy\\水浒西游\\服务端源码,D:\\服务端源码",
+			"E:\\shxy\\水浒西游\\服务端源码",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\对话处理类",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\地图处理类",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\对话处理类",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\地图处理类",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\角色处理类",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\tufei\\服务端源码\\Script\\数据中心",
+			"E:\\tufei\\服务端源码\\Script",
+			"E:\\土匪江南\\服务端源码\\Script",
+			"E:\\土匪江南\\服务端源码\\Script\\角色处理类",
+			"E:\\土匪江南\\服务端源码\\Script",
+			"E:\\土匪江南\\服务端源码",
+			"E:\\土匪江南\\服务端源码\\Script",
+			"E:\\富婆江南修改\\服务端源码\\Script",
+			"E:\\富婆江南修改\\服务端源码\\Script\\系统处理类",
+			"E:\\富婆江南修改\\服务端源码\\Script",
+			"E:\\富婆江南修改\\服务端源码\\Script\\战斗处理类",
+			"E:\\富婆江南修改\\服务端源码\\Script",
+			"E:\\富婆江南修改\\服务端源码\\Script\\战斗处理类",
+			"E:\\富婆江南修改\\服务端源码\\Script",
+			"G:\\锤锤开服\\服务端源码 - 副本\\Script"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"该商品只供观赏无法购买",
+			"if 仙玉商城[大分类][类型][序号][3]==\"神兽\" or 大分类==\"神兽商城\"  then\n    常规提示(id,\"#Y该商品只供观赏无法购买\")\n    return\nend",
+			"超级",
+			"超级感知",
+			"该商品只供观赏无法购买",
+			"物理榜第一",
+			"该商品只供观赏无法购买",
+			"物理榜第一",
+			"抽奖中奖",
+			"玩家抽奖处理",
+			"抽奖中奖",
+			"玩家抽奖处理",
+			"61",
+			"超级连击",
+			"高级内丹",
+			"钟灵石",
+			"飞升降级",
+			"完成飞升",
+			"飞升",
+			"飞升处理",
+			"召唤兽锦衣丹",
+			"一键回收共享道具",
+			"器灵",
+			"器灵.金蝉",
+			"一键回收共享道具",
+			"确认回收",
+			"共享道具出售",
+			"阵",
+			"阵法",
+			"物理榜第一",
+			"添加仙玉",
+			"三界书院",
+			"添加仙玉",
+			"添加咸鱼",
+			"三界书院",
+			"问题如下",
+			"知识就是",
+			"兑换",
+			"抽奖积分",
+			"帮派资材",
+			"没有可回收",
+			"共享道具出售",
+			"回收",
+			"共享道具回收",
+			"共享道具",
+			"共享开关",
+			"共享道具",
+			"水浒西游",
+			"取npc坐标",
+			"宠物仙子",
+			"万亿称号",
+			"以仙",
+			"我是神",
+			"定制",
+			"确定兑换定制宝宝",
+			"定制",
+			"眼镜",
+			"1001",
+			"1001、",
+			"1001",
+			"定制",
+			"3817.2",
+			"召唤兽装备",
+			"健步如飞",
+			"钟灵石",
+			"召唤兽附灵",
+			"召唤兽装备",
+			"更新道具1",
+			"gz_index",
+			"附灵",
+			"总类 == 2",
+			"sp.总类 == 2",
+			"附灵",
+			"打造材料",
+			"附灵",
+			"170",
+			"附灵",
+			"我来装备附灵",
+			"附灵",
+			"抽奖",
+			"附灵",
+			"积分",
+			"附灵",
+			"你的修炼还未达到,等经验达到1000亿再来找朕吧",
+			"李世民",
+			"一键出售",
+			"称谓碎片",
+			"锦衣",
+			"诸天",
+			"镇妖塔",
+			"@",
+			"高级藏宝图",
+			"车迟",
+			"附灵",
+			"横扫天下",
+			"绝世",
+			"镇妖塔",
+			"重置",
+			"横扫天下",
+			"横扫",
+			"不可交易",
+			"灵饰",
+			"不可交易",
+			"高级藏宝图",
+			"镇塔童子",
+			"重置",
+			"重置‘",
+			"镇妖塔",
+			"不可交易",
+			"自选武器礼包",
+			"不可交易",
+			"自选礼包",
+			"增加神兽技能格子",
+			"我要增加",
+			"我要替换",
+			"召唤兽装备",
+			"精魄灵石",
+			"灵石",
+			"这里没有",
+			"高级藏宝图",
+			"高级藏宝图处理",
+			"高级藏宝图",
+			"召唤兽装备洗炼石",
+			"属性洗炼",
+			"召唤兽装备",
+			"无级别宝珠",
+			"属性洗炼石",
+			"宝宝装备洗炼"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Script/商店处理类/仙玉商城.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1076,
+								1076
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								233,
+								12,
+								26,
+								19,
+								33,
+								51,
+								0,
+								0,
+								0,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"function_name_status_row": 42,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua/Lua.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 214,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								214
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"detect_indentation": false,
+							"function_name_status_row": 12,
+							"line_numbers": false,
+							"output_tag": 2,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 185.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua/ggeserver.sublime-build",
+	"project": "游戏模板.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
